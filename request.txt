@@ -1,0 +1,13 @@
+Hi,
+
+I was hoping you could help me out with something.  I maintain an open source project hosted on code.google.com.
+The name of the project is ... Morphia (https://code.google.com/p/morphia/).  I am planning to move the project 
+to github soon, and wanted to put the  project under a Morphia user, since I may not always be the maintainer 
+of this project.  
+
+I noticed that you're not so active on github, and so I wonder if you would consider giving up the name and letting me 
+take it over as the home for the Morphia project.  
+
+Thanks,
+Jeff Yemin
+
